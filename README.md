@@ -1,5 +1,6 @@
+<img src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif" alt="MasterHead" width="1500" height="250"/>
 <h1 align="center">Hi 👋, I'm Vaibhav Raj</h1>
-<h3 align="center">A passionate Fullstack (Frontend to Backend) developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav5860&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav5860" /> </p>
 
