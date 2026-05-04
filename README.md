@@ -1,19 +1,21 @@
-<img src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif" alt="MasterHead" width="1500" height="150"/>
+<img src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif" alt="MasterHead" width="1500" height="250"/>
 
 <h1 align="center">Hi 👋, I'm Vaibhav Raj</h1>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFkenRoczRlOGo4ZmRkMmt4Y2J1bGR5ajA0aTE4anRzYjEzYnZvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2J3VPYmnhO2jjKAX0X/giphy.gif" height="150"/>
-
-  <div style="text-align: center;">
-    <h3>Full Stack Developer | System Designer</h3>
-    <h3>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzExc2VkZWlpejZ6ZGJ1NzE2bnNiZzFkMzc2eGUycnV2M3gybWxrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YPUh8SkoYuurwwV4bz/giphy.gif" width="30" style="vertical-align: middle;">
-      Building scalable systems with confidence
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzExc2VkZWlpejZ6ZGJ1NzE2bnNiZzFkMzc2eGUycnV2M3gybWxrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YPUh8SkoYuurwwV4bz/giphy.gif" width="30" style="vertical-align: middle;">
-    </h3>
-  </div>
+<table align="center">
+  <tr>
+    <td align="left">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFkenRoczRlOGo4ZmRkMmt4Y2J1bGR5ajA0aTE4anRzYjEzYnZvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2J3VPYmnhO2jjKAX0X/giphy.gif" height="150">
+    </td>
+    <td align="center">
+      <h2>Full Stack Developer | System Designer</strong></h2>
+      <h3>Building scalable systems with <strong>confidence</strong></h3>
+    </td>
+    <td align="right">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFkenRoczRlOGo4ZmRkMmt4Y2J1bGR5ajA0aTE4anRzYjEzYnZvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2J3VPYmnhO2jjKAX0X/giphy.gif" height="150">
+    </td>
+  </tr>
+</table>
 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFkenRoczRlOGo4ZmRkMmt4Y2J1bGR5ajA0aTE4anRzYjEzYnZvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2J3VPYmnhO2jjKAX0X/giphy.gif" height="150"/>
 </div>
