@@ -17,9 +17,7 @@
   </tr>
 </table>
 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFkenRoczRlOGo4ZmRkMmt4Y2J1bGR5ajA0aTE4anRzYjEzYnZvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2J3VPYmnhO2jjKAX0X/giphy.gif" height="150"/>
-</div>
- 
+
 <!-- Profile views counter -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavraj26&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavraj26" /> </p>  -->
 
