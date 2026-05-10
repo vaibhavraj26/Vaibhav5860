@@ -25,7 +25,10 @@
  
  ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHliajRxcjV3dnNmODdlaDBkcDhvdDhibmhsMXgxeGw5Y2luMXQyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H8T4LQzyx2xbTc2Gdw/giphy.gif" height="150">
+> I am a **Full Stack Developer** passionate about building **scalable** and **user-friendly** web applications. I enjoy working across both **frontend** and **backend** technologies, turning **ideas** into functional and efficient solutions. Along with web development, I have a strong interest in **Artificial Intelligence**, **Cloud Computing**, and **modern software technologies**. I am continuously **learning**, **building** projects, and **improving** my skills to grow as a developer and technology professional.
+
+
+
 
  ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJqcW5pZ2c2Mndub3c1OTl0M3U3cDdxZDZ0eTJ4NTZ1dXJ0djN1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XuBtcsV266vepmoEYG/giphy.gif" width="30"> &nbsp;Certifications <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJqcW5pZ2c2Mndub3c1OTl0M3U3cDdxZDZ0eTJ4NTZ1dXJ0djN1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XuBtcsV266vepmoEYG/giphy.gif" width="30">
 
