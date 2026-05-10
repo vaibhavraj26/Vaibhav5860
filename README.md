@@ -24,6 +24,13 @@
 </div>
 
 
+
+
+
+ ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xsZTdkNTU0dGJkbmQ2Z2xxY2l1YmhkZnRqZHF2ZjJocjBzdnQyZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="30"> &nbsp;Languages-Frameworks-Tools &nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xsZTdkNTU0dGJkbmQ2Z2xxY2l1YmhkZnRqZHF2ZjJocjBzdnQyZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="30">
+
+
+ 
  ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJqcW5pZ2c2Mndub3c1OTl0M3U3cDdxZDZ0eTJ4NTZ1dXJ0djN1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XuBtcsV266vepmoEYG/giphy.gif" width="30"> &nbsp;Certifications <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJqcW5pZ2c2Mndub3c1OTl0M3U3cDdxZDZ0eTJ4NTZ1dXJ0djN1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XuBtcsV266vepmoEYG/giphy.gif" width="30">
 
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=EB250058FFDD6981E002ED5830C19F7043CA41E44494C76AA6FE1E359FB65D11">
