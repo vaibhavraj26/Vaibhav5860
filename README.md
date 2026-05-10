@@ -27,7 +27,16 @@
 
 > I am a **Full Stack Developer** passionate about building **scalable** and **user-friendly** web applications. I enjoy working across both **frontend** and **backend** technologies, turning **ideas** into functional and efficient solutions. Along with web development, I have a strong interest in **Artificial Intelligence**, **Cloud Computing**, and **modern software technologies**. I am continuously **learning**, **building** projects, and **improving** my skills to grow as a developer and technology professional.
 
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vaibhavraj23076)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavraj26)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavraj26)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:5860vaibhav@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=vaibhavraj26&style=for-the-badge&color=347DFF)](https://github.com/vaibhavraj26)
 
+
+</div>
 
 
  ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJqcW5pZ2c2Mndub3c1OTl0M3U3cDdxZDZ0eTJ4NTZ1dXJ0djN1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XuBtcsV266vepmoEYG/giphy.gif" width="30"> &nbsp;Certifications <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJqcW5pZ2c2Mndub3c1OTl0M3U3cDdxZDZ0eTJ4NTZ1dXJ0djN1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XuBtcsV266vepmoEYG/giphy.gif" width="30">
