@@ -85,7 +85,7 @@
 </p>
 
 
-
+<br />
  
  ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJqcW5pZ2c2Mndub3c1OTl0M3U3cDdxZDZ0eTJ4NTZ1dXJ0djN1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XuBtcsV266vepmoEYG/giphy.gif" width="30"> &nbsp;Certifications 
 
@@ -93,9 +93,13 @@
 <img src="images/oracle-ai-badge.jpeg" alt="Oracle OCI AI Foundations" width="120"/>
 </a>
 
+<br />
+
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW92djBrcTRtNTV5ODNrbmphMnAxcGxyajh1czZpajljbHpyaGF0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l02VxIlpX9XzzmoGBu/giphy.gif" width="30"> &nbsp;Stats &nbsp; 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavraj26)](https://github.com/vaibhavraj26/github-profile-trophy) 
+
+<br />
 
  ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZ2cHQ3dWZhOTMwMm42NWM5Y3BxbHE4bmoyNnVjOGpmbzd5N25ybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wOFpybCnjrxrgVabX0/giphy.gif" width="30"> &nbsp;Quote of the Day <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRmYjg2d2xsbXUxdzhneHgxZWoxMng3bnVkZnNvYXM3N3p5cTU3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NBf1M1QmgODBwISeph/giphy.gif" width="30">
  
