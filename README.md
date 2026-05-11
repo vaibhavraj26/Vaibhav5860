@@ -28,7 +28,16 @@
 
 
  ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xsZTdkNTU0dGJkbmQ2Z2xxY2l1YmhkZnRqZHF2ZjJocjBzdnQyZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="30"> &nbsp;Languages-Frameworks-Tools &nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xsZTdkNTU0dGJkbmQ2Z2xxY2l1YmhkZnRqZHF2ZjJocjBzdnQyZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="30">
+ 
+![Frontend Engineering](https://img.shields.io/badge/Frontend-38BDF8?style=social)
 
+![Backend Engineering](https://img.shields.io/badge/Backend-22C55E?style=social)
+
+![Databases & ORM](https://img.shields.io/badge/Database-F59E0B?style=social)
+
+![Tools & Platforms](https://img.shields.io/badge/Tools-A855F7?style=social)
+
+![Deployment & Cloud](https://img.shields.io/badge/Deployment-E11D48?style=social)
 
  
  ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJqcW5pZ2c2Mndub3c1OTl0M3U3cDdxZDZ0eTJ4NTZ1dXJ0djN1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XuBtcsV266vepmoEYG/giphy.gif" width="30"> &nbsp;Certifications <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJqcW5pZ2c2Mndub3c1OTl0M3U3cDdxZDZ0eTJ4NTZ1dXJ0djN1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XuBtcsV266vepmoEYG/giphy.gif" width="30">
