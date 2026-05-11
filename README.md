@@ -94,8 +94,11 @@
 </a>
 
 <br />
+<br />
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW92djBrcTRtNTV5ODNrbmphMnAxcGxyajh1czZpajljbHpyaGF0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l02VxIlpX9XzzmoGBu/giphy.gif" width="30"> &nbsp;Stats &nbsp; 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vaibhavraj26&theme=default)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavraj26)](https://github.com/vaibhavraj26/github-profile-trophy) 
 
