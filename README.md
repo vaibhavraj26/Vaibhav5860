@@ -101,15 +101,6 @@
 
 </details>
 
-<br>
-
-
- ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJqcW5pZ2c2Mndub3c1OTl0M3U3cDdxZDZ0eTJ4NTZ1dXJ0djN1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XuBtcsV266vepmoEYG/giphy.gif" width="30">&nbsp;Certifications 
-
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=EB250058FFDD6981E002ED5830C19F7043CA41E44494C76AA6FE1E359FB65D11">
-<img src="images/oracle-ai-badge.jpeg" alt="Oracle OCI AI Foundations" width="120"/>
-</a>
-
 <br />
 <br />
 
