@@ -1,4 +1,4 @@
-<!-- Header Banner -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:347DFF&height=250&section=header&text=Hello!%20👋%20I'm%20Vaibhav%20Raj&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Developer%20%7C%20System%20Designer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 <!-- Animated Intro -->
