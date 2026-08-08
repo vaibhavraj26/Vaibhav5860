@@ -30,17 +30,21 @@
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xsZTdkNTU0dGJkbmQ2Z2xxY2l1YmhkZnRqZHF2ZjJocjBzdnQyZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="30"> &nbsp;What I Do
 
 
-| 💻 Full Stack Development | 🎨 UI/UX & Frontend | 🤖 AI & Modern Tech |
-| :---: | :---: | :---: |
-| Scalable web applications & APIs | Intuitive, user-focused interfaces | AI-powered & modern solutions |
+<table align="center">
+<tr>
+<td align="center"><b>💻 Full Stack Development</b></td>
+<td align="center"><b>🎨 UI/UX & Frontend</b></td>
+<td align="center"><b>🤖 AI & Modern Tech</b></td>
+</tr>
+<tr>
+<td align="center">Scalable web applications & APIs</td>
+<td align="center">Intuitive, user-focused interfaces</td>
+<td align="center">AI-powered & modern solutions</td>
+</tr>
+</table>
 
 <br />
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjU3MXM1aTZpMXUydmJ4cnIwNzd3NHR2M2VjMm04cmZodWl0Nmo2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="30"> &nbsp;Open To
-
-**Freelance Projects** • **Internships & Full-Time Roles** • **Open-Source Collaboration** • **Tech & Product Ideas**
-
-<br />
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh1MmlodGM1bXdpeDVvemg3eGNwamdvM3p2Y28yaHBvYWNpMXo1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30"> &nbsp;Tech Stacks 
  
