@@ -22,7 +22,7 @@
  
  ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me 
 
-> I am a **Full Stack Developer** passionate about building **scalable** and **user-friendly** web applications. I enjoy working across both **frontend** and **backend** technologies, turning **ideas** into functional and **efficient solutions**. Along with web development, I have a strong interest in **Artificial Intelligence**, **Cloud Computing**, and **modern software technologies**. I am continuously **learning**, **building** projects, and **improving** my skills to grow as a developer and technology professional.
+> I am a **Full Stack Developer** focused on building **scalable, user-friendly web applications** with a strong understanding of **UI/UX and design principles**. I enjoy working across both **frontend** and **backend** technologies, turning **ideas** into functional and **efficient solutions**. Along with web development, I have a strong interest in **Artificial Intelligence**, **Cloud Computing**, and **modern software technologies**. I am continuously **learning**, **building** projects, and **improving** my skills to grow as a developer and technology professional.
 
 
 <br />
